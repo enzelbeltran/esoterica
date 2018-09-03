@@ -1,2 +1,3 @@
 # esoterica
 
+👁 whatever happens, happens
