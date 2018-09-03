@@ -46,6 +46,3 @@
 <div class="resp-container">
 <iframe class="resp-iframe" src="https://www.youtube-nocookie.com/embed/lcOxc0xvKUo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-
-*last updated 2018-07-01*
-
