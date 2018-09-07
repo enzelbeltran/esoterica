@@ -4,7 +4,7 @@
 
 ___
 
-* art
+* [art](art/art.md)
     * [audio](art/audio.md)
         * [spotify playlists](art/audio/spotify-playlists.md) 
     * [photography](art/photography.md)
