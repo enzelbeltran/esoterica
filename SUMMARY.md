@@ -10,21 +10,21 @@ ___
     * [photography](art/photography.md)
     * [pixel art](art/pixel-art.md)
 * [health](health/health.md)
-* languages
+* [languages](languages/languages.md)
     * [english](languages/english.md)
     * [german](languages/german.md)
-* learning
+* [learning](learning/learning.md)
     * [anki](learning/anki.md) 
-* life
+* [life](life/life.md)
     * [1se](life/1se.md)
     * [cities](life/cities.md)
-* philosophy
+* [philosophy](philosophy/philosophy.md)
     * [stoicism](philosophy/stoicism.md)
-* productivity
+* [productivity](productivity/productivity.md)
     * [toggl](productivity/toggl.md)
     * [clickup](productivity/clickup.md)
     * [quotes](productivity/quotes.md)
-* sports
+* [sports](sports/sports.md)
     * [formula 1](sports/formula-1.md) 
-* university
+* [university](university/university.md)
     * [ws18/19](university/ws18-19.md)
