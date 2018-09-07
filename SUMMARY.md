@@ -25,5 +25,6 @@ ___
     * [clickup](productivity/clickup.md)
     * [quotes](productivity/quotes.md)
 * sports
+    * [formula 1](sports/formula-1.md) 
 * university
     * [ws18/19](university/ws18-19.md)

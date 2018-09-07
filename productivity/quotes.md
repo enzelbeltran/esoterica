@@ -1,3 +1,4 @@
+#quotes
 
 * "Likewise, we have maintained clear sight of the reasons for our success this year. The team is operating at an incredibly high level in every area and continuing to develop; we have applied an *obsessive attention to detail* to how we go racing over the past three seasons; and we have continued to develop our car at a competitive rate through the season. Our mindset has always been one of constant improvement, regardless of the results we were enjoying, and this is now paying off."
  - <small>Toto Wolff</small>
