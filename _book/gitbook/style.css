@@ -27,3 +27,7 @@
 }
 
 /* iframe end */
+
+.gitbook-link {
+    display: none !important;
+}

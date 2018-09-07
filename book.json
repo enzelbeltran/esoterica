@@ -10,6 +10,7 @@
     "sharing",
     "fontsettings",
     "theme-default",
-    "collapsible-menu-ex"
+    "collapsible-menu-ex",
+    "-sharing"
   ]
 }
