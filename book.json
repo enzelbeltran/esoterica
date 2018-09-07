@@ -1,0 +1,15 @@
+{
+  "gitbook": "3.2.3",
+  "title": "esoterica",
+  "description": "enzelb",
+  "plugins":
+  [
+    "highlight",
+    "search",
+    "lunr",
+    "sharing",
+    "fontsettings",
+    "theme-default",
+    "collapsible-menu-ex"
+  ]
+}
