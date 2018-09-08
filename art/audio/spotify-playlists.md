@@ -41,9 +41,21 @@
 </div>
 
 <div class="resp-container">
-<iframe src="https://open.spotify.com/embed/user/ej1090/playlist/0eKQYgywAIYbScDEzKTNNr" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe class="resp-iframe" src="https://open.spotify.com/embed/user/ej1090/playlist/0eKQYgywAIYbScDEzKTNNr" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
 <div class="resp-container">
-<iframe src="https://open.spotify.com/embed/user/ej1090/playlist/3eLLpqiqWQtqb7HxgnLHQQ" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe class="resp-iframe" src="https://open.spotify.com/embed/user/ej1090/playlist/3eLLpqiqWQtqb7HxgnLHQQ" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</div>
+
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://open.spotify.com/embed/user/ej1090/playlist/0sPsWVifUjmv8KpiLJCUtd" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</div>
+
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://open.spotify.com/embed/user/ej1090/playlist/1MbKRBXeuhGu2k9NVPuDgQ" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</div>
+
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://open.spotify.com/embed/user/ej1090/playlist/6qH4Wxi03Umg0LR4KKCpZv" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
