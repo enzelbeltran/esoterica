@@ -4,7 +4,7 @@ Anki is *mainly* a tool for memorization (*and later, understanding*), not first
 
 ## Decks
 
-Input all cards into one deck with hierarchical tags (*Class*). Use two other decks for current sections and overall reviews (*Combined Current* and *Combined Review* respectively)
+Input all cards into one deck with hierarchical tags (**Class**). Use two other decks for current sections and overall reviews (**Combined Current** and **Combined Review** respectively)
 
 Having one review deck promotes interleaved practice while allowing you to prioritize current sections. 
 
@@ -15,12 +15,12 @@ Having one review deck promotes interleaved practice while allowing you to prior
         + Basic
             * Show new cards after reviews
 
-* *Class*
+* **Class**
     - New Cards
         + Steps (in minutes): 1 10 60
         + Order: Show new cards in order added
         + New cards/day: 9999
-        + Graduating inverval
+        + Graduating interval
             * Minimum: 1 day
             * Maximum: 1 day
         + Easy interval
@@ -41,13 +41,14 @@ Having one review deck promotes interleaved practice while allowing you to prior
         + Leech threshold: 8 lapses
         + Leech action: Tag Only
 
-* *Combined Current* (inherits everything from "Curent" except:)
+* **Combined Current** (inherits everything from "Current" except:)
     - New Cards
-        + New cards/day: 50
-    - Reviews
-        + Maximum reviews/day: 50
+        + New cards/day: X
 
-* *Combined Review* (inherits everything from "Curent")
+* **Combined Review** (inherits everything from "Current")
+
+X = number of cards in deck/number of days until exam
+
 
 ## Add-ons
 
