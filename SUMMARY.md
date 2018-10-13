@@ -18,7 +18,7 @@ ___
 * [life](life/life.md)
     * [1se](life/1se.md)
     * [cities](life/cities.md)
-* [multimedia](multimedia)
+* [multimedia](multimedia/multimedia.md)
     * [watch](multimedia/watch.md)
     * [read](multimedia/read.md)
     * [listen](multimedia/listen.md)
